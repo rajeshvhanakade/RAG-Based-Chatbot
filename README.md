@@ -1,40 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>RAG Chatbot with LLM</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 40px;
-            background-color: #f8f9fa;
-            color: #212529;
-        }
-        h1, h2, h3 {
-            color: #0d6efd;
-        }
-        code, pre {
-            background-color: #e9ecef;
-            padding: 8px;
-            border-radius: 5px;
-            display: block;
-            overflow-x: auto;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        .section {
-            margin-bottom: 30px;
-        }
-        .footer {
-            margin-top: 40px;
-            font-size: 0.9em;
-            color: #555;
-        }
-    </style>
-</head>
-<body>
+
 
 <h1>📚 RAG Chatbot with LLM </h1>
 

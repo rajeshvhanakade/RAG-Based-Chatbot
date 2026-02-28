@@ -226,30 +226,14 @@ streamlit run rag_chatbot_app.py -- \
     </ul>
 </div>
 
-<div class="section">
-    <h2>🧑‍💻 Author</h2>
-    <p>
-        <strong>Rajesh Vhankade</strong><br>
-        Conversational AI Developer<br>
-        Pune, India
-    </p>
-</div>
+
 
 <div class="section">
     <h2>📜 License</h2>
     <p>This project is licensed under the MIT License.</p>
 </div>
 
-<div class="section">
-    <h2>🌟 Future Improvements</h2>
-    <ul>
-        <li>PDF and TXT document support</li>
-        <li>Multi-user authentication</li>
-        <li>Model switching from UI</li>
-        <li>Docker deployment</li>
-        <li>Source citation in answers</li>
-    </ul>
-</div>
+
 
 <div class="footer">
     <p>© 2026 Rajesh Vhankade. All rights reserved.</p>
